@@ -1,4 +1,4 @@
-# dualtheme
+# Dual Theme
 
 A new Flutter project.
 
